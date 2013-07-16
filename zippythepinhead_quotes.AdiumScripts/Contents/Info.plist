@@ -1,0 +1,39 @@
+f<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleGetInfoString</key>
+	<string>yow</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.adiumx.yow.scripts</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>CFBundleName</key>
+	<string>yow</string>
+	<key>CFBundlePackageType</key>
+	<string>AdIM</string>
+	<key>Scripts</key>
+	<array>
+		<dict>
+			<key>File</key>
+			<string>yow</string>
+			<key>Keyword</key>
+			<string>/yow</string>
+			<key>Title</key>
+			<string>Yow</string>
+		</dict>
+		<dict>
+			<key>File</key>
+			<string>yow</string>
+			<key>Keyword</key>
+			<string>/zippy</string>
+			<key>Title</key>
+			<string>Zippy</string>
+		</dict>
+	</array>
+	<key>Set</key>
+	<string>yow</string>
+</dict>
+</plist>
